@@ -3,6 +3,10 @@
 
 ![screenshot](Images/Build-your-Own-Beyblade.png)
 
+## PRINTABLE LAUNCHER FILES CAN BE FOUND HERE
+[STL of Launcher](STL_FILES/Launcher_Parts/Launcher.STL)
+[STL of Ripcord](STL_FILES/Launcher_Parts/Ripcord.stl)
+
 ## Project Overview
 
 Welcome to the "Build Your Own Beyblade" project by the UWA Robotics Club! This project was created for UWA O-Day as our approach to meaningful, interactive "merch" - something fun, easy to understand, and genuinely desirable rather than branded rubbish that ends up forgotten or discarded.
